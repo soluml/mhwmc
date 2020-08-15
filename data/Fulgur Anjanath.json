@@ -1,0 +1,23 @@
+{
+  "name": "Fulgur Anjanath",
+  "classification": "",
+  "physiology": {
+    "fire": "",
+    "water": "",
+    "thunder": "",
+    "ice": "",
+    "dragon": "",
+    "poison": "",
+    "sleep": "",
+    "paralysis": "",
+    "blast": "",
+    "stun": ""
+  },
+  "biology": {
+    "roar": "",
+    "tail": {
+      "durability": {}
+    }
+  },
+  "effects": {}
+}
